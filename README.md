@@ -9,6 +9,7 @@ find the mean, median and mode
 checked the data types 
 coverted data into int64 and float64
 imported matploptlib ans seaborn for statistic purpose 
+we concatinated the data's
 we find the outliers 
 we then find the corerelation between the data's
 we succesfully manipulated and saved the data 
